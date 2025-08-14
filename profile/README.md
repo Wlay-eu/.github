@@ -1,4 +1,8 @@
-<img src="../image/logo.png" alt="Wly.eu logo" style="display: block; margin: 0 auto; width: clamp(12rem, 3vw, 1rem);" />
+<div align="center">
+
+<img src="../image/logo.png" alt="Wly.eu logo" style="width: clamp(12rem, 3vw, 1rem);" />
+
+</div>
 
 ![Background of Wlay.eu](../image/background.png)
 
