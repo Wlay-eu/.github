@@ -1,4 +1,6 @@
-## Wlay.eu
+# Wlay.eu
+
+![Background of Wlay.eu](../image/background.png)
 
 Welcome to the official profile of the Wlay.eu project.
 
